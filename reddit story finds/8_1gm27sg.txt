@@ -1,0 +1,20 @@
+Title: TIFU by bricking my phone - completely avoidable
+Upvotes: 24
+URL: https://www.reddit.com/r/tifu/comments/1gm27sg/tifu_by_bricking_my_phone_completely_avoidable/
+
+Content:
+If you've ever used a phone by a Chinese company, you'll note they have a tendency to run like crap, filter your photos, and sell your data (so does Google) so naturally, I wanted to install a custom rom. Sure, that's the first solution you think of. It went so well. Bootloader unlocked all at my own risk, and then I try to flash the rom. Not enough space, after some research I found I could delete the "product" partition at my own risk. Having not specified a or b, I thought nothing of it. Half way through going to boot TWRP, it decides to reboot. Having deleted userdata, adb debugging came pre-disabled. It now continuously vibrates and reboots shaming me for killing it. Its only input to the outside world is displaying "Redmi" over and over, and I have no way into it.
+
+£200 mistake. Not my worst work.
+
+TL;DR buy a Google Pixel
+
+Edit: no need to downvote everything, I know I'm an idiot that's why anyone posts here.
+
+Edit again: Fastboot nope. Recovery nope.
+
+Also edit: Get it in your head, I cannot splurge on a phone all at once. It has to be pay monthly or nothing. Ergo debating dumbphone
+
+Edit: Redmi Note 10 5G
+
+Edit: MTK Client is the solution to all my problems. Today I Un-f\*\*\*ed Up.
